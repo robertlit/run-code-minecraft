@@ -1,0 +1,8 @@
+alisases: false
+
+lang:
+  language-not-found: "&4Language not found."
+  executing: "&2Executing..."
+  execute-fail: "&4Could not execute"
+  execute-success: "&2Executed on %lang% version %version%. Output:\n&6%out%"
+  quitting: "&4Quitting..."

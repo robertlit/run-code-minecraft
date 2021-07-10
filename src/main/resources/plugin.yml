@@ -1,0 +1,14 @@
+name: RunCode
+version: ${project.version}
+main: me.robertlit.runcode.RunCode
+authors: [ robertlit ]
+description: Run code in minecraft
+
+commands:
+  code:
+    description: Execute code
+    permission: runcode.use
+
+permissions:
+  runcode.use:
+    description: Permission to use /code
