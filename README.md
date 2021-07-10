@@ -1,6 +1,6 @@
 # RunCode
 
-A Plugin that lets you execute code inside [Minecraft](https://github.com/engineer-man/piston) using Piston public API.
+A Plugin that lets you execute code inside Minecraft using [Piston](https://github.com/engineer-man/piston) public API.
 
 ![](./img/code-mc-python.gif)
 
