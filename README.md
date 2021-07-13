@@ -1,11 +1,12 @@
 # RunCode
 
-A Plugin that lets you execute code inside Minecraft using [Piston](https://github.com/engineer-man/piston) public API.
+A plugin that lets you execute code inside Minecraft using [Piston](https://github.com/engineer-man/piston) public API.
+Check it out on [SpigotMC](https://www.spigotmc.org/resources/runcode.94233/).
 
 ![](./img/code-mc-python.gif)
 
 ## Usage
 
-Run /code <language> and write some code, when you're done, type "execute".
-If you don't want to run the code, type "quit".
-Use "...." (four dots) for indentation.
+1. Run /code <language> - requires runcode.use
+2. Type your code, use .... (four dots) for indentation
+3. Type execute to execute or quit to exit without executing
