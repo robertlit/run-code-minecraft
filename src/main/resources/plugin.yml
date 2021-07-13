@@ -3,6 +3,7 @@ version: ${project.version}
 main: me.robertlit.runcode.RunCode
 authors: [ robertlit ]
 description: Run code in minecraft
+api-version: 1.13
 
 commands:
   code:
